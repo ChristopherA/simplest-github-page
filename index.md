@@ -2,7 +2,7 @@
 
 ## Bułka z truskawkowym dżemem
 ###### Kraków, 10.08.2021
-Alia podszedł do małego okienka, obok którego zamocowana była mała klawiatura. Wcisnął trzyznakowy kod i po chwili w okienku pojawił się kubek kawy z mlekiem. Za jego plecami pojawił się Cris, kierownik działu, w którym pracował Alia, z podobnym zamiarem zamówienia, w jego wypadku słodkiej bułki z truskawkowym dżemem.\
+Alia podszedł do niewielkiego okna, obok którego zamocowana była klawiatura z pięcioma symbolami. Wcisnął trzyznakowy kod i po chwili w okienku pojawił się kubek kawy z mlekiem. Za jego plecami pojawił się Cris, kierownik działu, w którym pracował Alia, z podobnym zamiarem zamówienia, w jego wypadku słodkiej bułki z truskawkowym dżemem.\
 \- Witam, przed nami dzień owocnej pracy, nieprawdaż? – wymówił Alia z udawanym entuzjazmem.\
 \- Cześć, mam nadzieję, że tak będzie. Od rana z… - odpowiadając Cris zawahał się, wskazał palcem prawej ręki w górę. - …z _góry_ już dzwonią.\
 \- Mam pytanie. Znasz może sposób na podłączenie odtwarzacza kaset pod jeden z  modeli naszego V-Bota?\
