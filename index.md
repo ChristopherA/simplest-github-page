@@ -29,6 +29,8 @@ Odwrócił się i spojrzał na ekran cyfrometru z długim westchnięciem. Jeżel
 
 ***
 ```
-> Mark26: I liked last one better.
+> Mark26: I liked the last one better.
 > JennyJenkins: Hey, links at the end are not working. What's up with that?
+  > Second one is working now. I'm still working on getting a better signal.
+  > If it doesn't work, i'll post some chunks anyway.
 ```
