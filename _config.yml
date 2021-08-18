@@ -1,10 +1,7 @@
-title: "Simplest GitHub Page"
-project: "Simplest GitHub Page"
-description: "Test of simplest GitHub page, leveraging Jekyll without Jekyll"
-author: Christopher Allen
-email: ChristopherA@LifeWithAlacrity.com
-twitter_username: ChristopherA
-github_username:  ChristopherA
+title: "Volume 1, Tales and Time Crystals"
+description: "A collection of novels."
+author: Wojciech Wszoła
+github_username: wwszola
 show_downloads: false
 encoding: UTF-8
 kramdown:
