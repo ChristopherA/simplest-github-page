@@ -1,7 +1,7 @@
 ### NaN
 ## Dodatek 1 - Partia szachowa
 
-Rutherford A. (Białe) - ~~namnlös~~ (Czarne)\
+Rutherford E. (Białe) - ~~namnlös~~ (Czarne)\
 ~~dlonghos~~, 19.08.1986.R2\
 Rapid
 ```
