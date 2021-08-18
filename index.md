@@ -25,7 +25,7 @@ Oczywiście nie miał zamiaru jedynie rozgrywać kolejnej partii obrony sycylijs
 Odwrócił się i spojrzał na ekran cyfrometru z długim westchnięciem. Jeżeli sformułowana na szybko teoria nie zawierała, co było bardzo prawdopodobne, ukrytego sprytnie błędu, to znalazł bardzo obfite źródło pomysłów. Realizacja ich wszystkich zajęłaby mu prawdopodobnie wiele długich lat, ale nic w tym złego. Będąc fizykiem z tytułem profesora oraz będąc autorem wielu artykułów, kilku dobrze znanych, i jednej przełomowej pracy naukowej, otrzymałby pieniądze na wszystkie, nawet najbardziej absurdalne eksperymenty.
 
 > [Pierwsza notatka]()\
-> [Partia szachowa]()
+> [Partia szachowa](/szachyNaN.md)
 
 ***
 ```
