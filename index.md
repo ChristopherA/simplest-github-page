@@ -1,7 +1,5 @@
-# roadOwnerProject
-```
-Podróż po równoległych wymiarach w oknie Twojej przeglądarki!
-```
+###### roadOwnerProject
+#### Podróż po równoległych wymiarach w oknie Twojej przeglądarki!
 
 ## Bułka z truskawkowym dżemem
 Alia podszedł do małego okienka, obok którego zamocowana była mała klawiatura. Wcisnął trzyznakowy kod i po chwili w okienku pojawił się kubek kawy z mlekiem. Za jego plecami pojawił się Cris, kierownik działu, w którym pracował Alia, z podobnym zamiarem zamówienia, w jego wypadku słodkiej bułki z truskawkowym dżemem.\
@@ -14,7 +12,14 @@ Alia podszedł do małego okienka, obok którego zamocowana była mała klawiatu
 \- Ulrich. – dodał Alia.\
 \- Jakkolwiek ma na imię, kodu nie da się zrozumieć. Zrób coś z tym. – powiedział stanowczo wycierając ubrudzone czerwonym kolorem dłonie w chusteczkę, jak po bardzo słabo ukrytym morderstwie.\
 _Kraków, 10.08.2021_
-
 * * *
-> This guy is cool.
-> Mark26
+Pół strony kartki zapisał linijkami matematycznego żargonu, nastepnie przez kilka minut stukał w klawiaturę swojego cyfrometru co zostało przerwane krotkim mruknięciem. Ono z kolei, rozwinęło się w rytm chrząknięć zakończony cichą gwizdaną melodią, po czym wstał i podszedł do ściany, na której wisiał służbowy telegraf.\
+&nbsp;Napisał na małym skrawku papieru krótką wiadomość **Do: E. Rutherford Jutro 9 SZACHY?**, którą ręcznie podpisał (tak wymagał bowiem protokół, sieć obsługująca telegrafy stosowała podpis jako klucz szyfrujący, okazuje się, że informacje zawarte w takim podpisie przypominają rozkład kwantowy, co daje zadziwiająco dobre bezpieczeństwo). Zapytanie wysłał zaufanemu koledze po fachu, z którym w latach młodości przez kilka lat redagował uniwersyteckie pismo naukowe.\
+Oczywiście nie miał zamiaru jedynie rozgrywać kolejnej partii obrony sycylijskiej przeciwko Rutherfordowi, co zdarzało się nadzwyczaj często, chciał zasięgnąć jego opinii. Jako czołowy matematyk Katedry Badań Cząstek Wysokoenergetycznych  miał niemało do czynienia z odkrywaniem teoretycznie odkrytych struktur.\
+Odwrócił się i spojrzał na ekran cyfrometru z długim westchnięciem. Jeżeli sformułowana na szybko teoria nie zawierała, co było bardzo nieprawdopodobne, ukrytego sprytnie błędu, to znalazł bardzo obfite źródło pomysłów. Realizacja ich wszystkich zajęłaby mu prawdopodobnie wiele długich lat, ale nic w tym złego. Będąc fizykiem z tytułem profesora oraz będąc autorem wielu artykułów, kilku dobrze znanych, i jednej przełomowej pracy naukowej, otrzymałby pieniądze na wszystkie, nawet najbardziej absurdalne eksperymenty.\
+_Kraków, 29.07.2021_
+
+```
+I like that.
+Mark26
+```
