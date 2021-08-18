@@ -21,6 +21,6 @@ Kh7 43. a5 Rxf2 44. a6 g3 45. a7 g2 46. a8=Q g1=Q
 ```
 ***
 ```
-> Feel free to add your analysis. I'll collect them and include in extended version.
+> Feel free to add your analysis. I'll collect them and include in the extended version.
 > Go Miners!
 ```
