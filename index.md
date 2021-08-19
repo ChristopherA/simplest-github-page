@@ -1,4 +1,5 @@
 #### Podróż po równoległych wymiarach w oknie Twojej przeglądarki!
+[About](/about.md)
 
 ## Bułka z truskawkowym dżemem
 ###### Kraków, 10.08.2021
