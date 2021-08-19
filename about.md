@@ -7,6 +7,7 @@
 > I'll pull you in. My name is ~~namnlös~~
 ```
 ###### _wwszola_
+[About _me_](/about_me.md)
 
 > Transkrypcja nagrania #1: _"...nagranie pierwsze, jest dzisiaj 19.08.2021, godzina: ...2:53. Prowadzę takiego blo AA!... zostaw! mnie, przestań... dobry pies, zaraz wyjdz..."_
 
