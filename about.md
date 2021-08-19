@@ -8,4 +8,6 @@
 ```
 ###### _wwszola_
 
-> Transkrypcja nagrania #1: _"...nagranie pierwsze, jest dzisiaj 19.08.2021, godzina: ...2:53. Prowadzę takiego bloga, ale... content jest tak jakby w oddzielnym uniwersum. Chciałbym zachować do tego kanon w porządnej formie... *fanfiction* miło widziany na oddzielnych gałęziach.```
+> Transkrypcja nagrania #1: _"...nagranie pierwsze, jest dzisiaj 19.08.2021, godzina: ...2:53. Prowadzę takiego blo AA!... zostaw! mnie, przestań... dobry pies, zaraz wyjdz..."_
+
+> Transkrypcja nagrania #2: _"...nagranie pierwsze, jest dzisiaj 19.08.2021, godzina: ...2:57. Prowadzę takiego bloga, ale... content jest tak jakby w oddzielnym uniwersum. Chciałbym zachować do tego kanon w porządnej formie... *fanfiction* miło widziany na oddzielnych gałęziach..."_
