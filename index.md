@@ -35,3 +35,4 @@ Odwrócił się i spojrzał na ekran cyfrometru z długim westchnięciem. Jeżel
   > Second one is working now. I'm still working on getting a better signal.
   > If it doesn't work, i'll post some chunks anyway.
 ```
+[_Dziennik_](/dziennik.md)
