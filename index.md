@@ -1,6 +1,19 @@
 [About](/about.md)
 #### Podróż po równoległych wymiarach w oknie Twojej przeglądarki!
 
+## Winda na 83 piętro
+###### Kraków, 20.08.2021
+Dźwięk naciskanych klawiszy 54 klawiatur komputerowych wypełniał pokój. Przy jednej z klawiatur siedział Ulrich, sylwetką przypominający sosnę trafioną przez piorun, wpatrując się w ekran cyfrometru przez okrągłe okulary zawieszone nisko na nosie. Podszedł do niego Alia, postawił kubek na biurku Ulricha, a przystawiając sobie krzesło zaczął:\
+\- Słuchaj, makro do kodu modułu łączności, ...coś z nim nie tak jest, Cris mów...\
+\- Tak, wiem. - Przerwał mu Ulrich. - Już poprawiłem. Zrobiłem też opisy z kilku ostatnich dni.\
+Alia przez chwilę nic nie mówił, wypił łyk kawy. Potem wstał i powiedział:\
+\- Dobra to chodź ze mną, pokażę ci coś.
+
+Winda na 83 piętro budynku (tak naprawdę 75-te, gdyż aż 8 pięter było ukrytych pod ziemią) pokonywała podróż na samą górę w 96 sekund. W czasach swojej świetności była jednym z cudów inżynierii, teraz po 40 latach użytku jest tylko ciekawostką w książce. Teren należący do FT-CORP był starą bazą wojskową, przebudowaną po zakończeniu Wojny.\
+Ulrich i Alia wjechali na 83 piętro. 
+Alia otworzył drzwi na końcu korytarza
+
+* * *
 ## Bułka z truskawkowym dżemem
 ###### Kraków, 10.08.2021
 Alia podszedł do niewielkiego okna, obok którego zamocowana była klawiatura z pięcioma symbolami. Wcisnął trzyznakowy kod i po chwili w okienku pojawił się kubek kawy z mlekiem. Za jego plecami pojawił się Cris, kierownik działu, w którym pracował Alia, z podobnym zamiarem zamówienia, w jego wypadku słodkiej bułki z truskawkowym dżemem.\
